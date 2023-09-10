@@ -1,4 +1,4 @@
-# ShipTimeForecasters
+# ShipTimeForecasters Shoppedia e-commerce Shipping Data Project
 
 Project Title: Shipping Forecasting for Shoppedia e-commerce. \
 Project Goal: to increase Delivery on Time rate from 40% to 60%.\
