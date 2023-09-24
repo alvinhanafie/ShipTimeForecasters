@@ -9,7 +9,7 @@ Insight summary:
 2. Weight and Price of Products impact Timely Deliveries.
 3. Warehouse Blocks and Mode of Shipment Affect Discounts and On-Time Deliveries.
 
-Data Preprocessing Summary:\
+Data Preprocessing Summary:
 1. Tidak terdapat missing value, duplicate data, dan invalid value.
 2. Dilakukan feature extraction dengan nama Weight_class dari feature berat barang (Weight_in_gms), menjadi 4 kategori berdasarkan beratnya.
 3. Dilakukan feature selection berdasarkan multicolinearity, variance dan entropy, dan Information Value. Feature yang masih digunakan yaitu Customer_care_calls, Cost_of_the_Product, Discount_offered, Prior_purchases, Product_importance, dan Weight_class.
